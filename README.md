@@ -7,3 +7,5 @@ I picked the name for this project from this Thaat, because it is easy to memori
 Todi (ie. todi.lmms) generates Raag based classical notations (SARGAMs).
 Later, these notations can be translated for use with LMMS Software through XML Midi Clip import feature.
 An [intermediary software](https://github.com/anytizer/swar.lmms) is required to convert these classical notes into XML Midi Clip for LMMS.
+
+Being random notes, they are unpredictable. But since flow of notations stays within the notes range defined by a [Raag](https://en.wikipedia.org/wiki/Raga), it feels melodious. Here is one sample of such melody: [Computer Sings](https://github.com/anytizer/melodies.lmms/tree/main/melodies/Computer-Sings-01/project/).
