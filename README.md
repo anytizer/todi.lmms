@@ -9,3 +9,6 @@ Later, these notations can be translated for use with LMMS Software through XML 
 An [intermediary software](https://github.com/anytizer/swar.lmms) is required to convert these classical notes into XML Midi Clip for LMMS.
 
 Being random notes, they are unpredictable. But since flow of notations stays within the notes range defined by a [Raag](https://en.wikipedia.org/wiki/Raga), it feels melodious. Here is one sample of such melody: [Computer Sings](https://github.com/anytizer/melodies.lmms/tree/main/melodies/Computer-Sings-01/project/).
+
+It is all about randomizing notes; I am not sure if the output perfect or not.
+Try changing tempo, adding other beats, drums etc.
