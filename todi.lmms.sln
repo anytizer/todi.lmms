@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32611.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todi.lmms", "todi.lmms\todi.lmms.csproj", "{E77E4A29-A20F-456D-BD46-1ECC4265C7D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tests", "tests\tests.csproj", "{DC01E1EC-A9A4-4E0B-8F96-A75AEC1FA471}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libraries", "libraries\libraries.csproj", "{438A4045-C6C9-46BB-B7EA-F0A47007E90B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E77E4A29-A20F-456D-BD46-1ECC4265C7D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E77E4A29-A20F-456D-BD46-1ECC4265C7D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E77E4A29-A20F-456D-BD46-1ECC4265C7D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E77E4A29-A20F-456D-BD46-1ECC4265C7D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC01E1EC-A9A4-4E0B-8F96-A75AEC1FA471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC01E1EC-A9A4-4E0B-8F96-A75AEC1FA471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC01E1EC-A9A4-4E0B-8F96-A75AEC1FA471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC01E1EC-A9A4-4E0B-8F96-A75AEC1FA471}.Release|Any CPU.Build.0 = Release|Any CPU
+		{438A4045-C6C9-46BB-B7EA-F0A47007E90B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{438A4045-C6C9-46BB-B7EA-F0A47007E90B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{438A4045-C6C9-46BB-B7EA-F0A47007E90B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{438A4045-C6C9-46BB-B7EA-F0A47007E90B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2564A0C5-23BA-4EF8-B5AC-1836B9434777}
+	EndGlobalSection
+EndGlobal
