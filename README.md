@@ -1,6 +1,8 @@
 # todi.lmms
 Random notations generator for LMMS.
 
+This is an experimental product.
+
 [Todi](https://en.wikipedia.org/wiki/Todi_(thaat)) is one of the [Thaat](https://en.wikipedia.org/wiki/Thaat) system in the classical musics.
 I picked the name for this project from this Thaat, because it is easy to memorise.
 
