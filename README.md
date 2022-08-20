@@ -15,6 +15,9 @@ Being random notes, they are unpredictable. But since flow of notations stays wi
 It is all about randomizing notes; I am not sure if the output is perfect or not.
 Try changing tempo, adding other beats, drums and enhacnce yourself with your LMMS and melody skills.
 
-The source code isn't complete.
-Try the binary file from the release.
-You need the .net 7 or later version of the framework.
+Decompilation of this software is **Allowed**!
+
+* yes, because the source code is dirty with lots of comments, links to articles etc.
+* Try the binary file from the release.
+* You need the .net 7 or later version of the framework.
+* Produce your own SARGAMs.
