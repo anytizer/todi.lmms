@@ -1,0 +1,92 @@
+namespace libraries
+{
+    public static class RaagaNames
+    {
+        public static readonly string _UNKNOWN = "_UNKNOWN";
+
+        public static readonly string AABHOGI = "AABHOGI";
+        public static readonly string ABHOGI_KANHRA = "ABHOGI_KANHRA";
+        public static readonly string ADANA = "ADANA";
+        public static readonly string AHIR_BHAIRAV = "AHIR_BHAIRAV";
+        public static readonly string ALAHIYA_BILAVAL = "ALAHIYA_BILAVAL";
+        public static readonly string ASAVARI = "ASAVARI";
+        public static readonly string BAGESHRI = "BAGESHRI";
+        public static readonly string BAHAR = "BAHAR";
+        public static readonly string BASANT = "BASANT";
+        public static readonly string BHAIRAV = "BHAIRAV";
+        public static readonly string BHAIRAVI = "BHAIRAVI";
+        public static readonly string BHIMPALASI = "BHIMPALASI";
+        public static readonly string BHOOPALI = "BHOOPALI";
+        public static readonly string BIHAG = "BIHAG";
+        public static readonly string BIHAGRA = "BIHAGRA";
+        public static readonly string BILASKHANI_TODI = "BILASKHANI_TODI";
+        public static readonly string BILAVAL = "BILAVAL";
+        public static readonly string CHANDRAKAUNS = "CHANDRAKAUNS";
+        public static readonly string CHAYANAT = "CHAYANAT";
+        public static readonly string DARBARI_KANHDRA = "DARBARI_KANHDRA";
+        public static readonly string DES = "DES";
+        public static readonly string DESHKAR = "DESHKAR";
+        public static readonly string DESI = "DESI";
+        public static readonly string DHANASHRI = "DHANASHRI";
+        public static readonly string DURGA = "DURGA";
+        public static readonly string GAUR_MALHAR = "GAUR_MALHAR";
+        public static readonly string GAUR_SARANG = "GAUR_SARANG";
+        public static readonly string GURJARI_TODI = "GURJARI_TODI";
+        public static readonly string HAMIR = "HAMIR";
+        public static readonly string HANSADHVANI = "HANSADHVANI";
+        public static readonly string HINDOL = "HINDOL";
+        public static readonly string JAI_JAI_VANTI = "JAI_JAI_VANTI";
+        public static readonly string JAUNPURI = "JAUNPURI";
+        public static readonly string JHINJHOTI = "JHINJHOTI";
+        public static readonly string JOGIYA = "JOGIYA";
+        public static readonly string KAFI = "KAFI";
+        public static readonly string KALAVATI = "KALAVATI";
+        public static readonly string KAMOD = "KAMOD";
+        public static readonly string KAUSI_KANHDA = "KAUSI_KANHDA";
+        public static readonly string KEDAR = "KEDAR";
+        public static readonly string KHAMAJ = "KHAMAJ";
+        public static readonly string LALIT = "LALIT";
+        public static readonly string MADHUVANTI = "MADHUVANTI";
+        public static readonly string MADHYAMAD_SARANG = "MADHYAMAD_SARANG";
+        public static readonly string MALGUNJI = "MALGUNJI";
+        public static readonly string MALKAUNS = "MALKAUNS";
+        public static readonly string MALUHA_KEDAR = "MALUHA_KEDAR";
+        public static readonly string MAND = "MAND";
+        public static readonly string MARU_BIHAG = "MARU_BIHAG";
+        public static readonly string MARVA = "MARVA";
+        public static readonly string MIYA_KI_SARANG = "MIYA_KI_SARANG";
+        public static readonly string MIYA_MALHAR = "MIYA_MALHAR";
+        public static readonly string MULTANI = "MULTANI";
+        public static readonly string names = "names";
+        public static readonly string NAND_ANANDI = "NAND_ANANDI";
+        public static readonly string PAHADI = "PAHADI";
+        public static readonly string PARAJ = "PARAJ";
+        public static readonly string PATDEEP = "PATDEEP";
+        public static readonly string PILOO = "PILOO";
+        public static readonly string POORIYA = "POORIYA";
+        public static readonly string POORIYA_DHANASHRI = "POORIYA_DHANASHRI";
+        public static readonly string POORVI = "POORVI";
+        public static readonly string RAGESHWARI = "RAGESHWARI";
+        public static readonly string RAMDASI_MALHAR = "RAMDASI_MALHAR";
+        public static readonly string RAMKALI = "RAMKALI";
+        public static readonly string RASRANJANI = "RASRANJANI";
+        public static readonly string SARASWATI = "SARASWATI";
+        public static readonly string SHANKARA = "SHANKARA";
+        public static readonly string SHIVRANJANI = "SHIVRANJANI";
+        public static readonly string SHRI = "SHRI";
+        public static readonly string SHUDDH_KALYAN = "SHUDDH_KALYAN";
+        public static readonly string SHUDDH_SARANG = "SHUDDH_SARANG";
+        public static readonly string SHYAM_KALYAN = "SHYAM_KALYAN";
+        public static readonly string SINDHU_BHAIRAVI = "SINDHU_BHAIRAVI";
+        public static readonly string SOHNI = "SOHNI";
+        public static readonly string SUGHRAI = "SUGHRAI";
+        public static readonly string TILAK_KAMOD = "TILAK_KAMOD";
+        public static readonly string TILANG = "TILANG";
+        public static readonly string TODI = "TODI";
+        public static readonly string VIBHAS = "VIBHAS";
+        public static readonly string VRIDAVANI_SARANG = "VRIDAVANI_SARANG";
+        public static readonly string YAMANI_BILAVAL = "YAMANI_BILAVAL";
+        public static readonly string YAMAN_KALYAN = "YAMAN_KALYAN";
+    }
+   
+}
